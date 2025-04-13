@@ -33,7 +33,7 @@ TECHNOLOGY STACK USED
   - HTML (Create Structure of Webpage)
   - CSS (Style and Design the Webpage)
   - Java Script (To create the interactive Webpage)
-  - Phython (Programming Algorithms)
+  - Python (Programming Algorithms)
   - Flask (Development Framework)
     
 TOOLS 

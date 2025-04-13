@@ -10,7 +10,7 @@ These challenges underline the need for inclusive tools, resources, and awarenes
 
 PROBLEM SOLUTION
 
-Develop a comprehensive website with a built-in community hub to address the challenges faced by color-blind individuals. The website can include the following:
+Develop a comprehensive website with a built-in community hub to address the challenges faced by color-blind individuals. The website include the following:
 
 1. Resource Center:
    - Provide educational materials on color blindness, including guides, best practices, and information about tools like color-detection apps and simulators.

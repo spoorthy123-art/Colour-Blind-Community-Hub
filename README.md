@@ -29,19 +29,19 @@ Develop a comprehensive website with a built-in community hub to address the cha
    - Include a feedback loop where community members can suggest features or share their needs for continuous improvement.
 
 
-TECHNOLOGY STACK USED :
+TECHNOLOGY STACK USED 
   - HTML (Create Structure of Webpage)
   - CSS (Style and Design the Webpage)
   - Java Script (To create the interactive Webpage)
   - Phython (Programming Algorithms)
   - Flask (Development Framework)
-
-TOOLS :
+    
+TOOLS 
  - Simulation : This helps people know/ gain knowledge on how people with color blindness see [ 3 types of blindness simulation is available( protanopia, deuteranopia adn tritanopia) ]
  - Color detection : Tool helps people with color blindness to analyse or know the colors. they can upload the image and by clicking on the image, the website identifies and displays the color name and code(rgb) of that particular area
  - Smtplib : To automate sending the confirmation mail.
 
-USE CASES :
+USE CASES 
  - Colorblind individuals in electronics can use the tool to identify resistor color codes and wire colors accurately, ensuring precise assembly and troubleshooting.
  - Designers with color blindness can upload graphics or design elements to identify colors, helping them create visuals that adhere to specific branding or design requirements.
  - Colorblind individuals planning home decoration can analyze furniture or room images to identify and name colors, making it easier to choose matching or complementary color schemes.
